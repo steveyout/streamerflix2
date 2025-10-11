@@ -16,7 +16,7 @@ export const Footer = () => {
             <div className="h-3 border-r" />
 
             <span className="text-muted-foreground text-xs">
-              EnjoyTown doesn&apos;t store any media listed; we only link to third-party sources.
+              Streamerflix doesn&apos;t store any media listed; we only link to third-party sources.
             </span>
           </div>
 
@@ -29,7 +29,7 @@ export const Footer = () => {
               DMCA
             </Link>
 
-            <Link href="https://github.com/avalynndev/enjoytown" className="hover:text-foreground">
+            <Link href="https://github.com/avalynndev/Streamerflix" className="hover:text-foreground">
               Github
             </Link>
 

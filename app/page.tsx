@@ -18,7 +18,7 @@ export default async function Home() {
             </Link>
             <h1 className="text-6xl font-bold">Explore movies, tv series, and animes!</h1>
             <p className="text-muted-foreground text-sm leading-6">
-              EnjoyTown is a streaming platform for lazy people who like to
+              Streamerflix is a streaming platform for lazy people who like to
               <br />
               watch millions of movies, series and animes for free. Go down to watch
             </p>

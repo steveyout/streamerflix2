@@ -1,6 +1,6 @@
 <h1 align="center">
-<a href="https://enjoytown.pro">
-Enjoytown
+<a href="https://Streamerflix.pro">
+Streamerflix
 </a>
 </h1>
 
@@ -13,32 +13,32 @@ Enjoytown
 </p>
 
 <p align="center">
-  <a href="https://enjoytown.pro" target="_blank">
-    <img src="https://github.com/avalynndev/enjoytown/blob/main/public/android-chrome-512x512.png?raw=true" alt="Logo" width="200"/>
+  <a href="https://Streamerflix.pro" target="_blank">
+    <img src="https://github.com/avalynndev/Streamerflix/blob/main/public/android-chrome-512x512.png?raw=true" alt="Logo" width="200"/>
   </a>
 </p>
 <p align="center">
 <a  href="https://www.youtube.com/watch?v=kB_qcHYWW0U" target="_blank">
-    <img src="https://raw.githubusercontent.com/avalynndev/enjoytown/main/public/DEPLOY.png" alt="Logo" width="300"/>
+    <img src="https://raw.githubusercontent.com/avalynndev/Streamerflix/main/public/DEPLOY.png" alt="Logo" width="300"/>
 </a>
 </p>
 
-## What is Enjoytown?
+## What is Streamerflix?
 
-Welcome to **Enjoytown** the one stop for all your streaming desires! Explore **[enjoytown.pro](https://enjoytown.pro)** and dive into the world of movies, drama and anime.
+Welcome to **Streamerflix** the one stop for all your streaming desires! Explore **[Streamerflix.pro](https://Streamerflix.pro)** and dive into the world of movies, drama and anime.
 
 Enjoy your favorite movies, drama and anime with English subs or dubs, and here's the kicker - no sign-up required!
 
 ## Images
 
 <div style="text-align: left;">
-  <img src="https://api.microlink.io/?url=https://enjoytown.pro&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Home Page" style="max-width: 70%;" >
+  <img src="https://api.microlink.io/?url=https://Streamerflix.pro&screenshot=true&meta=false&embed=screenshot.url&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Home Page" style="max-width: 70%;" >
   <details>
   <summary>Screenshots [View More]</summary>
   <br>
-  <img src="https://api.microlink.io/?url=https://enjoytown.pro/drama&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=3500&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="K Drama" style="max-width: 70%;">
-  <img src="https://api.microlink.io/?url=https://enjoytown.pro/movie&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=4510&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Movie" style="max-width: 70%;">
-    <img src="https://api.microlink.io/?url=https://enjoytown.pro/anime&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=3510&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Anime" style="max-width: 70%;">
+  <img src="https://api.microlink.io/?url=https://Streamerflix.pro/drama&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=3500&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="K Drama" style="max-width: 70%;">
+  <img src="https://api.microlink.io/?url=https://Streamerflix.pro/movie&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=4510&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Movie" style="max-width: 70%;">
+    <img src="https://api.microlink.io/?url=https://Streamerflix.pro/anime&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=3510&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29" alt="Anime" style="max-width: 70%;">
   </details>
 </div>
 
@@ -47,11 +47,11 @@ Enjoy your favorite movies, drama and anime with English subs or dubs, and here'
 ### 1. Clone this repository using
 
 ```bash
-git clone https://github.com/avalynndev/enjoytown.git
+git clone https://github.com/avalynndev/Streamerflix.git
 ```
 
 ```bash
-cd enjoytown
+cd Streamerflix
 ```
 
 ### 2. Installation
@@ -97,21 +97,21 @@ bun run dev || npm run dev
 bun run start || npm start
 ```
 
-> Deploy **your own Enjoytown** Instance on Vercel
+> Deploy **your own Streamerflix** Instance on Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Favalynndev%2Fenjoytown&env=DOWNLOAD_API_URL,CONSUMET_API_URL,TMDB_PROXY_URL)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Favalynndev%2FStreamerflix&env=DOWNLOAD_API_URL,CONSUMET_API_URL,TMDB_PROXY_URL)
 
 ## Found a Bug? 🐞
 
-Uh-oh, looks like you stumbled upon a bug? No worries, we're here to squash it! Just head over to our [**issues**](https://github.com/avalynndev/enjoytown/issues) section on GitHub and let us know what's up.
+Uh-oh, looks like you stumbled upon a bug? No worries, we're here to squash it! Just head over to our [**issues**](https://github.com/avalynndev/Streamerflix/issues) section on GitHub and let us know what's up.
 
 ## Contributors 🤲
 
-> EnjoyTown is now under AniVerse Pte Ltd ([1Anime](https://github.com/1Anime))
-<img height="50" src="https://contrib.rocks/image?repo=avalynndev/enjoytown" />
+> Streamerflix is now under AniVerse Pte Ltd ([1Anime](https://github.com/1Anime))
+<img height="50" src="https://contrib.rocks/image?repo=avalynndev/Streamerflix" />
 
 #### Want to Help Out?
 
 Feel free to contribute to this project! Whether you're an experienced developer or have been in the field for a while, your help is valuable.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=avalynndev/enjoytown&type=Date)](https://star-history.com/embed?secret=#avalynndev/enjoytown&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=avalynndev/Streamerflix&type=Date)](https://star-history.com/embed?secret=#avalynndev/Streamerflix&Date)
