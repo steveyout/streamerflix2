@@ -60,7 +60,7 @@ export default function RootLayout({
         </Script>
         <Script
           type="text/javascript"
-          src="//enlargementemergencyflank.com/417af15897e7e71a1e9cb0f89a4489b4/invoke.js"
+          src="//patronagemaestroforestall.com/417af15897e7e71a1e9cb0f89a4489b4/invoke.js"
         />
         <Script type="text/javascript" id="ads1">
           {`
@@ -75,7 +75,7 @@ export default function RootLayout({
         </Script>
         <Script
           type="text/javascript"
-          src="//enlargementemergencyflank.com/5e3632f67e44bf63aef55bbd7b2cfd92/invoke.js"
+          src="//patronagemaestroforestall.com/5e3632f67e44bf63aef55bbd7b2cfd92/invoke.js"
         />
 
         <Script async strategy="afterInteractive" src="//acscdn.com/script/aclib.js" />

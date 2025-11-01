@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "enjoytown",
+      "name": "Streamerflix",
       "dependencies": {
         "@heroui/react": "^2.7.5",
         "@heroui/theme": "^2.4.12",
